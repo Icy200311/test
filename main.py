@@ -28,3 +28,13 @@ def run_schedule():
 if __name__ == '__main__':
     # print(f"Key: {key}, Keyword: {keyword}")
     run_schedule()  # 运行调度任务
+
+# git init
+# git add .
+# git commit -m "first  commit"
+# bit branch -M main
+# git remote add origin https://github.com/Icy200311/test.git
+# git push -u origin main
+# git config --global user.name "Icy200311"
+# git config --global user.email "1527342124@163.com"
+
