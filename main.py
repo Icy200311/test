@@ -26,7 +26,7 @@ def run_schedule():
 
 # 程序入口
 if __name__ == '__main__':
-    # print(f"Key: {key}, Keyword: {keyword}")
+
     run_schedule()  # 运行调度任务
 
 # git init
